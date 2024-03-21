@@ -7,3 +7,4 @@
 - [**Practical Work 6**](https://github.com/shharw/test_automation/tree/master/pr6)
 - [**Practical Work 7**](https://github.com/shharw/test_automation/tree/master/pr7)
 - [**Practical Work 8**](https://github.com/shharw/test_automation/tree/master/pr8)
+- [**Practical Work 9**](https://github.com/shharw/test_automation/tree/master/pr9)
